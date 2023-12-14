@@ -1,6 +1,6 @@
 node{
    stage('SCM Checkout'){
-     git 'https://github.com/Nihafathima21/Demo.git'
+     git 'https://github.com/Nihafathima21/Demo'
    }
    stage('Compile-Package'){
 
